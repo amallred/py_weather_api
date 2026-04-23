@@ -1,0 +1,23 @@
+,0
+"('current_weather', 'date')",2026-04-23 13:21
+"('current_weather', 'location')",Amarillo
+"('current_weather', 'region')",Texas
+"('current_weather', 'temp_f')",82.9
+"('current_weather', 'temp_c')",28.3
+"('current_weather', 'wind_mph')",27.1
+"('current_weather', 'humidity')",7
+"('current_weather', 'air_quality')",1
+"('forecast_3_days', 'day')","['2026-04-23', '2026-04-24', '2026-04-25']"
+"('forecast_3_days', 'location')","['Amarillo', 'Amarillo', 'Amarillo']"
+"('forecast_3_days', 'max_temp_f')","[89.1, 79.6, 83.4]"
+"('forecast_3_days', 'max_temp_c')","[31.7, 26.5, 28.6]"
+"('forecast_3_days', 'max_wind_mph')","[30.6, 22.6, 25.1]"
+"('forecast_3_days', 'humidity')","[13, 23, 39]"
+"('forecast_3_days', 'air_quality')","[1, 1, 1]"
+"('astronomy', 'location')",Amarillo
+"('astronomy', 'state')",Texas
+"('astronomy', 'today')",2026-04-23
+"('astronomy', 'sunrise')",07:05 AM
+"('astronomy', 'sunset')",08:27 PM
+"('astronomy', 'moonrise')",12:36 PM
+"('astronomy', 'moonset')",02:40 AM
